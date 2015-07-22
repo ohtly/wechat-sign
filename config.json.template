@@ -1,4 +1,6 @@
 {
-	"appId":"APP_ID",
-	"appSecret":"APP_SECRET"
+	"mysite.com":{
+		"appId":"APP_ID",
+		"appSecret":"APP_SECRET"
+	}
 }
