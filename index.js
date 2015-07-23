@@ -23,6 +23,6 @@ server.get('/', function (req, res, next) {
 });
 server.get('/sign', SignController.sign);
 
-server.listen(8888, function () {
+server.listen(3000, function () {
   logger.info('%s listening at %s', server.name, server.url);
 });
